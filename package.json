@@ -1,0 +1,24 @@
+{
+  "name": "nodeprojects",
+  "version": "1.0.0",
+  "description": "new file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nithish1018/wd202-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nithish1018/wd202-node/issues"
+  },
+  "homepage": "https://github.com/nithish1018/wd202-node#readme",
+  "dependencies": {
+    "eslint": "^8.23.1",
+    "minimist": "^1.2.6"
+  }
+}
